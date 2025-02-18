@@ -1,6 +1,6 @@
 <!-- About Section -->
 <p align="center">
-  I'm a full-stack developer passionate about building user-centered applications and solving real-world problems through technology. <br>Here you'll find my projects, collaborations, and contributions to the developer community.
+  I'm a full-stack developer passionate about building user-centered applications and solving real-world problems through technology. Here you'll find my projects, collaborations, and contributions to the developer community.
 </p>
 
 ---
