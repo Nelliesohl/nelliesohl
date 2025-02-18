@@ -1,5 +1,5 @@
 <!-- About Section -->
-<h3 align="center">
+<h3 align="left">
   I'm a full-stack developer passionate about building user-centered applications and solving real-world problems through technology. Here you'll find my projects, collaborations, and contributions to the developer community.
 </h3>
 
